@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+body, body * {margin: O;
+ box-sizing:border-box;
+position: relative;}
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+           background-color: maroon;
+color: white;}
+ 
